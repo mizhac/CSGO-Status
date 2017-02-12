@@ -3,7 +3,7 @@ let Rcon = require('srcds-rcon');
 
 let rcon = Rcon({
   address: '190.102.157.50:27023',
-  password: 'ppkeiko2016'
+  password: 'synergyesport'
 });
 
 const router = express.Router();
